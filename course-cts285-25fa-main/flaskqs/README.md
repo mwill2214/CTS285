@@ -23,9 +23,9 @@ pip freeze > requirements.txt
 
 flask --version
 
-# Begin the Quickstart!
+# Begin the Tutorial!
 
-https://flask.palletsprojects.com/en/stable/quickstart/
+[https://flask.palletsprojects.com/en/stable/quickstart/](https://flask.palletsprojects.com/en/stable/tutorial/)
 
 # Notes
 
